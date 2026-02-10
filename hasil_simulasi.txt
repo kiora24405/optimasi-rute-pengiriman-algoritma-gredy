@@ -1,0 +1,22 @@
+================================================================================
+LAPORAN HASIL SIMULASI OPTIMASI RUTE PENGIRIMAN
+Waktu: 10/02/2026 19:49:55
+================================================================================
+
+HASIL ALGORITMA GREEDY (NEAREST NEIGHBOR):
+--------------------------------------------------------------------------------
+Total Jarak: 14.57 km
+Waktu Tempuh: 21.86 menit
+Jumlah Lokasi: 14
+Rute: 0 → 4 → 11 → 3 → 1 → 2 → 5 → 14 → 10 → 13 → 9 → 8 → 7 → 6 → 12 → 0
+
+HASIL RUTE RANDOM (PERBANDINGAN):
+--------------------------------------------------------------------------------
+Total Jarak: 26.13 km
+Waktu Tempuh: 39.19 menit
+
+ANALISIS PERFORMA:
+--------------------------------------------------------------------------------
+Penghematan Jarak: 11.56 km
+Efisiensi: 44.24%
+Waktu Hemat: 17.33 menit
